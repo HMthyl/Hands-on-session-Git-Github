@@ -1,4 +1,10 @@
 # Hands-on-session-Git-Github
 This is a specially designed repository so that participants can try out and check github features !
 
-3.Sidharth
+
+Participants:
+<br/>
+1. Sanjay  <br/>
+2. Siddharth  <br/>
+
+
